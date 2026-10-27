@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/bcd70dbd31f3
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/jianying-editor-skill/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/jianying-editor-skill-CN/releases) 下载。
 
 
 # 剪映（jianying） Skill | AI 全自动用你的剪映替你剪辑
